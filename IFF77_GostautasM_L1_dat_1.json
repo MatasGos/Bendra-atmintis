@@ -1,0 +1,752 @@
+[
+  {
+    "company": "POLARIA",
+    "count": 29,
+    "price": 3169.77
+  },
+  {
+    "company": "CAXT",
+    "count": 29,
+    "price": 2953.11
+  },
+  {
+    "company": "INEAR",
+    "count": 24,
+    "price": 3749.3
+  },
+  {
+    "company": "MYOPIUM",
+    "count": 30,
+    "price": 2685.14
+  },
+  {
+    "company": "BOLAX",
+    "count": 31,
+    "price": 3617.53
+  },
+  {
+    "company": "ECRATER",
+    "count": 6,
+    "price": 2839.37
+  },
+  {
+    "company": "INTERODEO",
+    "count": 6,
+    "price": 3805.14
+  },
+  {
+    "company": "ZYTREX",
+    "count": 2,
+    "price": 1325.73
+  },
+  {
+    "company": "LUDAK",
+    "count": 33,
+    "price": 1165.17
+  },
+  {
+    "company": "FROLIX",
+    "count": 14,
+    "price": 1161.76
+  },
+  {
+    "company": "OPPORTECH",
+    "count": 24,
+    "price": 2990.39
+  },
+  {
+    "company": "CANOPOLY",
+    "count": 21,
+    "price": 2291.06
+  },
+  {
+    "company": "MAROPTIC",
+    "count": 6,
+    "price": 2937.69
+  },
+  {
+    "company": "DANCITY",
+    "count": 7,
+    "price": 2348.42
+  },
+  {
+    "company": "BLUPLANET",
+    "count": 14,
+    "price": 1981.12
+  },
+  {
+    "company": "BIOSPAN",
+    "count": 12,
+    "price": 3943.71
+  },
+  {
+    "company": "COREPAN",
+    "count": 10,
+    "price": 1664.34
+  },
+  {
+    "company": "OPTIQUE",
+    "count": 20,
+    "price": 3106.78
+  },
+  {
+    "company": "ECRAZE",
+    "count": 2,
+    "price": 3546.32
+  },
+  {
+    "company": "EVEREST",
+    "count": 39,
+    "price": 2173.35
+  },
+  {
+    "company": "SAVVY",
+    "count": 19,
+    "price": 3127.08
+  },
+  {
+    "company": "ZOUNDS",
+    "count": 8,
+    "price": 3904.96
+  },
+  {
+    "company": "COMBOGENE",
+    "count": 4,
+    "price": 2098.34
+  },
+  {
+    "company": "ARCHITAX",
+    "count": 29,
+    "price": 1643.48
+  },
+  {
+    "company": "PROSURE",
+    "count": 38,
+    "price": 1019.33
+  },
+  {
+    "company": "AQUASSEUR",
+    "count": 8,
+    "price": 3515.09
+  },
+  {
+    "company": "PEARLESSA",
+    "count": 25,
+    "price": 1332.33
+  },
+  {
+    "company": "ZYTRAX",
+    "count": 20,
+    "price": 2233.14
+  },
+  {
+    "company": "ENDIPIN",
+    "count": 34,
+    "price": 2026.2
+  },
+  {
+    "company": "BULLZONE",
+    "count": 18,
+    "price": 1303.38
+  },
+  {
+    "company": "BLEEKO",
+    "count": 12,
+    "price": 1581.89
+  },
+  {
+    "company": "ACIUM",
+    "count": 16,
+    "price": 2363.78
+  },
+  {
+    "company": "PULZE",
+    "count": 3,
+    "price": 2328.48
+  },
+  {
+    "company": "GOGOL",
+    "count": 16,
+    "price": 3512.4
+  },
+  {
+    "company": "INTERFIND",
+    "count": 29,
+    "price": 3625.57
+  },
+  {
+    "company": "ECLIPSENT",
+    "count": 4,
+    "price": 1533.9
+  },
+  {
+    "company": "TUBALUM",
+    "count": 5,
+    "price": 1094.18
+  },
+  {
+    "company": "DOGSPA",
+    "count": 24,
+    "price": 3584.99
+  },
+  {
+    "company": "REVERSUS",
+    "count": 22,
+    "price": 1765
+  },
+  {
+    "company": "ZIZZLE",
+    "count": 25,
+    "price": 1127.75
+  },
+  {
+    "company": "COMVERGES",
+    "count": 39,
+    "price": 1684.13
+  },
+  {
+    "company": "JIMBIES",
+    "count": 4,
+    "price": 3681.49
+  },
+  {
+    "company": "BIFLEX",
+    "count": 25,
+    "price": 2981.71
+  },
+  {
+    "company": "RENOVIZE",
+    "count": 22,
+    "price": 2459.08
+  },
+  {
+    "company": "MOBILDATA",
+    "count": 35,
+    "price": 3015.75
+  },
+  {
+    "company": "SILODYNE",
+    "count": 31,
+    "price": 1295.34
+  },
+  {
+    "company": "PROXSOFT",
+    "count": 14,
+    "price": 1306.93
+  },
+  {
+    "company": "ERSUM",
+    "count": 16,
+    "price": 3530.62
+  },
+  {
+    "company": "AMRIL",
+    "count": 19,
+    "price": 3404.2
+  },
+  {
+    "company": "CORIANDER",
+    "count": 26,
+    "price": 1985.27
+  },
+  {
+    "company": "DYNO",
+    "count": 11,
+    "price": 3964.91
+  },
+  {
+    "company": "ENTROPIX",
+    "count": 11,
+    "price": 1143.75
+  },
+  {
+    "company": "NETILITY",
+    "count": 30,
+    "price": 2852.62
+  },
+  {
+    "company": "CIRCUM",
+    "count": 7,
+    "price": 3869.94
+  },
+  {
+    "company": "UNEEQ",
+    "count": 33,
+    "price": 3140.76
+  },
+  {
+    "company": "HYDROCOM",
+    "count": 24,
+    "price": 1664.15
+  },
+  {
+    "company": "ATOMICA",
+    "count": 32,
+    "price": 1046.74
+  },
+  {
+    "company": "PARLEYNET",
+    "count": 27,
+    "price": 3861.62
+  },
+  {
+    "company": "ORBIXTAR",
+    "count": 1,
+    "price": 2132.05
+  },
+  {
+    "company": "EGYPTO",
+    "count": 27,
+    "price": 1543.65
+  },
+  {
+    "company": "KNOWLYSIS",
+    "count": 26,
+    "price": 3797.33
+  },
+  {
+    "company": "SPORTAN",
+    "count": 36,
+    "price": 1363.26
+  },
+  {
+    "company": "EXPOSA",
+    "count": 36,
+    "price": 2487.97
+  },
+  {
+    "company": "HOTCAKES",
+    "count": 28,
+    "price": 2122
+  },
+  {
+    "company": "GEOFARM",
+    "count": 8,
+    "price": 1063.01
+  },
+  {
+    "company": "VELITY",
+    "count": 31,
+    "price": 1138.43
+  },
+  {
+    "company": "BARKARAMA",
+    "count": 27,
+    "price": 2349.33
+  },
+  {
+    "company": "BIZMATIC",
+    "count": 35,
+    "price": 1788.58
+  },
+  {
+    "company": "FOSSIEL",
+    "count": 1,
+    "price": 3118.01
+  },
+  {
+    "company": "ROUGHIES",
+    "count": 27,
+    "price": 3079.51
+  },
+  {
+    "company": "ELECTONIC",
+    "count": 33,
+    "price": 1423.01
+  },
+  {
+    "company": "KOZGENE",
+    "count": 28,
+    "price": 1451.74
+  },
+  {
+    "company": "FISHLAND",
+    "count": 28,
+    "price": 1029.93
+  },
+  {
+    "company": "AQUAFIRE",
+    "count": 29,
+    "price": 2267.26
+  },
+  {
+    "company": "EXOPLODE",
+    "count": 4,
+    "price": 2729.98
+  },
+  {
+    "company": "ONTALITY",
+    "count": 18,
+    "price": 3430.03
+  },
+  {
+    "company": "BOINK",
+    "count": 18,
+    "price": 2461.28
+  },
+  {
+    "company": "UPLINX",
+    "count": 37,
+    "price": 3115.7
+  },
+  {
+    "company": "VIRVA",
+    "count": 2,
+    "price": 2178.63
+  },
+  {
+    "company": "TALKALOT",
+    "count": 23,
+    "price": 1838.52
+  },
+  {
+    "company": "KOG",
+    "count": 21,
+    "price": 1269.79
+  },
+  {
+    "company": "XPLOR",
+    "count": 37,
+    "price": 1380.35
+  },
+  {
+    "company": "GEEKULAR",
+    "count": 28,
+    "price": 3165.99
+  },
+  {
+    "company": "KINETICUT",
+    "count": 16,
+    "price": 2185.49
+  },
+  {
+    "company": "COGNICODE",
+    "count": 40,
+    "price": 3700.21
+  },
+  {
+    "company": "ZOLAR",
+    "count": 23,
+    "price": 3759
+  },
+  {
+    "company": "TASMANIA",
+    "count": 7,
+    "price": 3549.46
+  },
+  {
+    "company": "PYRAMAX",
+    "count": 2,
+    "price": 1909.34
+  },
+  {
+    "company": "PERKLE",
+    "count": 27,
+    "price": 2962.79
+  },
+  {
+    "company": "RODEOMAD",
+    "count": 26,
+    "price": 1505.16
+  },
+  {
+    "company": "GEEKETRON",
+    "count": 7,
+    "price": 3573.53
+  },
+  {
+    "company": "FIBRODYNE",
+    "count": 19,
+    "price": 2280.01
+  },
+  {
+    "company": "GOLISTIC",
+    "count": 32,
+    "price": 2434.89
+  },
+  {
+    "company": "EXOTECHNO",
+    "count": 3,
+    "price": 1785.55
+  },
+  {
+    "company": "TWIIST",
+    "count": 27,
+    "price": 3172.66
+  },
+  {
+    "company": "ZILLATIDE",
+    "count": 6,
+    "price": 2073.95
+  },
+  {
+    "company": "DUOFLEX",
+    "count": 28,
+    "price": 3531.49
+  },
+  {
+    "company": "GEEKNET",
+    "count": 31,
+    "price": 1753.98
+  },
+  {
+    "company": "NAMEGEN",
+    "count": 6,
+    "price": 3605.69
+  },
+  {
+    "company": "ZYPLE",
+    "count": 11,
+    "price": 1566.12
+  },
+  {
+    "company": "DUFLEX",
+    "count": 34,
+    "price": 2006.11
+  },
+  {
+    "company": "QUILK",
+    "count": 37,
+    "price": 1915.74
+  },
+  {
+    "company": "XYLAR",
+    "count": 34,
+    "price": 1840.16
+  },
+  {
+    "company": "VIAGREAT",
+    "count": 19,
+    "price": 3706.28
+  },
+  {
+    "company": "COMCUR",
+    "count": 3,
+    "price": 1091.76
+  },
+  {
+    "company": "MAGNAFONE",
+    "count": 1,
+    "price": 3305.37
+  },
+  {
+    "company": "ENOMEN",
+    "count": 35,
+    "price": 2887.03
+  },
+  {
+    "company": "DATACATOR",
+    "count": 25,
+    "price": 1080.83
+  },
+  {
+    "company": "DIGIGENE",
+    "count": 4,
+    "price": 3649.11
+  },
+  {
+    "company": "VALPREAL",
+    "count": 3,
+    "price": 2573.23
+  },
+  {
+    "company": "OBLIQ",
+    "count": 22,
+    "price": 3866.64
+  },
+  {
+    "company": "GRUPOLI",
+    "count": 29,
+    "price": 1737.45
+  },
+  {
+    "company": "PLUTORQUE",
+    "count": 4,
+    "price": 1483.5
+  },
+  {
+    "company": "ASSISTIX",
+    "count": 32,
+    "price": 2648.94
+  },
+  {
+    "company": "MEDIOT",
+    "count": 29,
+    "price": 2523.75
+  },
+  {
+    "company": "ISOPLEX",
+    "count": 23,
+    "price": 1546.56
+  },
+  {
+    "company": "TERSANKI",
+    "count": 33,
+    "price": 3323.19
+  },
+  {
+    "company": "GAZAK",
+    "count": 15,
+    "price": 1875.91
+  },
+  {
+    "company": "OATFARM",
+    "count": 33,
+    "price": 1470.91
+  },
+  {
+    "company": "EYEWAX",
+    "count": 39,
+    "price": 3427.1
+  },
+  {
+    "company": "JUNIPOOR",
+    "count": 12,
+    "price": 3327.88
+  },
+  {
+    "company": "ENERSAVE",
+    "count": 18,
+    "price": 1839.15
+  },
+  {
+    "company": "GORGANIC",
+    "count": 24,
+    "price": 1056.87
+  },
+  {
+    "company": "COMVOY",
+    "count": 11,
+    "price": 2583.85
+  },
+  {
+    "company": "ISOSTREAM",
+    "count": 14,
+    "price": 2006.91
+  },
+  {
+    "company": "INSURITY",
+    "count": 35,
+    "price": 3410.08
+  },
+  {
+    "company": "DADABASE",
+    "count": 7,
+    "price": 3479.78
+  },
+  {
+    "company": "ZIORE",
+    "count": 7,
+    "price": 1859.3
+  },
+  {
+    "company": "ARTWORLDS",
+    "count": 40,
+    "price": 1868.29
+  },
+  {
+    "company": "REMOLD",
+    "count": 11,
+    "price": 3853.84
+  },
+  {
+    "company": "ASSISTIA",
+    "count": 36,
+    "price": 3816.19
+  },
+  {
+    "company": "ZENTHALL",
+    "count": 30,
+    "price": 2929.11
+  },
+  {
+    "company": "FLUMBO",
+    "count": 19,
+    "price": 2363.08
+  },
+  {
+    "company": "FARMEX",
+    "count": 27,
+    "price": 1332.02
+  },
+  {
+    "company": "SONIQUE",
+    "count": 23,
+    "price": 2395.37
+  },
+  {
+    "company": "MEDICROIX",
+    "count": 37,
+    "price": 1018.48
+  },
+  {
+    "company": "NETAGY",
+    "count": 12,
+    "price": 2598.29
+  },
+  {
+    "company": "ZOXY",
+    "count": 12,
+    "price": 1441.51
+  },
+  {
+    "company": "UPDAT",
+    "count": 6,
+    "price": 2395.22
+  },
+  {
+    "company": "ORBIFLEX",
+    "count": 11,
+    "price": 1015.66
+  },
+  {
+    "company": "EXTRAGEN",
+    "count": 12,
+    "price": 3039.6
+  },
+  {
+    "company": "BALUBA",
+    "count": 15,
+    "price": 3419.34
+  },
+  {
+    "company": "COLAIRE",
+    "count": 40,
+    "price": 1599.23
+  },
+  {
+    "company": "PYRAMI",
+    "count": 20,
+    "price": 1798.03
+  },
+  {
+    "company": "CABLAM",
+    "count": 22,
+    "price": 3127.74
+  },
+  {
+    "company": "SONGBIRD",
+    "count": 6,
+    "price": 3700.19
+  },
+  {
+    "company": "COMTEXT",
+    "count": 16,
+    "price": 2059.58
+  },
+  {
+    "company": "XELEGYL",
+    "count": 7,
+    "price": 3052.45
+  },
+  {
+    "company": "DAYCORE",
+    "count": 34,
+    "price": 3960.95
+  },
+  {
+    "company": "SCENTRIC",
+    "count": 3,
+    "price": 2651.54
+  }
+]

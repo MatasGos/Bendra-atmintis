@@ -1,0 +1,128 @@
+[
+
+  {
+    "company": "BOLAX",
+    "count": 31,
+    "price": 3617.53
+  },
+  {
+    "company": "ECRATER",
+    "count": 6,
+    "price": 2839.37
+  },
+  {
+    "company": "INTERODEO",
+    "count": 6,
+    "price": 3805.14
+  },
+  {
+    "company": "ZYTREX",
+    "count": 2,
+    "price": 1325.73
+  },
+  {
+    "company": "LUDAK",
+    "count": 33,
+    "price": 1165.17
+  },
+  {
+    "company": "FROLIX",
+    "count": 14,
+    "price": 1161.76
+  },
+  {
+    "company": "OPPORTECH",
+    "count": 24,
+    "price": 2990.39
+  },
+  {
+    "company": "CANOPOLY",
+    "count": 21,
+    "price": 2291.06
+  },
+  {
+    "company": "MAROPTIC",
+    "count": 6,
+    "price": 2937.69
+  },
+  {
+    "company": "DANCITY",
+    "count": 7,
+    "price": 2348.42
+  },
+  {
+    "company": "BLUPLANET",
+    "count": 14,
+    "price": 1981.12
+  },
+  {
+    "company": "BIOSPAN",
+    "count": 12,
+    "price": 3943.71
+  },
+  {
+    "company": "COREPAN",
+    "count": 10,
+    "price": 1664.34
+  },
+  {
+    "company": "OPTIQUE",
+    "count": 20,
+    "price": 3106.78
+  },
+  {
+    "company": "ECRAZE",
+    "count": 2,
+    "price": 3546.32
+  },
+  {
+    "company": "EVEREST",
+    "count": 39,
+    "price": 2173.35
+  },
+  {
+    "company": "SAVVY",
+    "count": 19,
+    "price": 3127.08
+  },
+  {
+    "company": "ZOUNDS",
+    "count": 8,
+    "price": 3904.96
+  },
+  {
+    "company": "COMBOGENE",
+    "count": 4,
+    "price": 2098.34
+  },
+  {
+    "company": "ARCHITAX",
+    "count": 29,
+    "price": 1643.48
+  },
+  {
+    "company": "PROSURE",
+    "count": 38,
+    "price": 1019.33
+  },
+  {
+    "company": "AQUASSEUR",
+    "count": 8,
+    "price": 3515.09
+  },
+  {
+    "company": "PEARLESSA",
+    "count": 25,
+    "price": 1332.33
+  },
+  {
+    "company": "ZYTRAX",
+    "count": 20,
+    "price": 2233.14
+  },
+  {
+    "company": "UNEEQ",
+    "count": 33,
+    "price": 3140.76
+  }
+]
